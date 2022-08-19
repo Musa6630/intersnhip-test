@@ -1,5 +1,4 @@
 table {
-    /* margin: 0 auto; */
     font-size: large;
     border: 1px solid black;
 }
@@ -8,7 +7,6 @@ th,
 td {
     font-weight: bold;
     border-bottom: 1px solid black;
-    /* padding: 10px; */
     text-align: center;
 }
 

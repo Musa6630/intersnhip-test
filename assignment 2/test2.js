@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     // FETCHING DATA FROM JSON FILE
-    $.getJSON("gfgdetails.json",
+    $.getJSON("entry.json",
         function (data) {
             var Entry = '';
 
